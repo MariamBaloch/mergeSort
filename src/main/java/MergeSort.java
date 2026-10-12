@@ -45,4 +45,5 @@ public class MergeSort {
         int[] sorted = mergeSort(numbers);
         System.out.println("After:  " + Arrays.toString(sorted));
     }
+
 }
